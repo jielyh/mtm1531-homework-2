@@ -1,0 +1,39 @@
+@charset "utf-8";
+/* CSS Document */
+
+html{
+	background-color:#9CF;	
+	color:#309;	
+}
+
+body{
+	background-color:#EFEFEF;
+	margin: 200px auto;	
+	width: 150px;
+	height: 100%;
+
+	padding: 10px;
+	border:solid #000;
+}
+
+p{
+	padding: 10px;	
+	margin: 10px;
+}
+
+.num1{
+	margin-top:10px;
+}
+
+.symbol{
+	margin-top:10px;	
+}
+
+.num2{
+	margin-top:10px;
+	
+}
+
+.btn{
+	margin-top:10px;
+}
